@@ -88,7 +88,7 @@ class CurrentBands extends Component {
                 <p>Genre: Hardcore Punk</p>
 
                 <p>Prime Suspect started out as just me and the singer of our old 
-                band Street Weapon. I did bass on the demo, but now we have a full
+                band Street Weapon. I also did bass on the demo, but now we have a full
                 lineup, including the bassist of Street Weapon. We just played our
                 first show last month, which can be viewed <a href="https://www.youtube.com/watch?v=MdKQoJ-AWhc">here</a>.</p>
 

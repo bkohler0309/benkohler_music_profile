@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import homeimg from "./Images/homeimg.jpg";
+import homeimg from "./Images/ps1.jpg";
 
 class Home extends Component {
     render() {
@@ -18,7 +18,9 @@ class Home extends Component {
                 called Catalyst that I played drums for with some friends from high school and the academy.
                 Since then, I have played in various metal, rock, and hardcore/punk bands around the 757 area.</p>
 
-                <img alt="Me at 17 years old playing with Catalyst" src={homeimg} />
+                <h2>Most Recent</h2>
+                <a href="https://manicmantra.bandcamp.com/album/mm06-prime-suspect-demo"><img alt="Prime Suspect Demo" src={homeimg} /></a>
+                <h4><a href="https://manicmantra.bandcamp.com/album/mm06-prime-suspect-demo">Prime Suspect - Demo</a></h4>
             </div>
         );
     }
