@@ -1,3 +1,7 @@
+# About the App
+
+This website acts as a portfolio of my current and former bands/musical projects.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
