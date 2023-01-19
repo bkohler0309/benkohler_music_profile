@@ -14,7 +14,7 @@ ul.header li {
   margin: 0;
 }
 ul.header {
-  background-color: rgb(68, 0, 255);
+  background-color: black;
   padding: 0;
 }
 ul.header li a {
@@ -37,5 +37,5 @@ ul.header li a {
 }
 
 .active {
-  background-color: rgb(0, 174, 255);
+  background-color: rgb(68, 0, 255);
 }
